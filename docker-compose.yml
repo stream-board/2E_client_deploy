@@ -1,0 +1,6 @@
+version: "2"
+services:
+  streamboard-wa:
+    image: afelipega/2e_client_production
+    ports:
+      - "8080:8080"
